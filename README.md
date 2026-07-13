@@ -1,8 +1,17 @@
 # 📊 Sales Analysis Dashboard
 
-![Overview](Screenshots/01_Overview.png)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Measures-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Portfolio](https://img.shields.io/badge/Project-Portfolio-green)
 
 Interactive Power BI dashboard for sales performance analysis, customer insights, product profitability, and promotion effectiveness.
+
+---
+
+## 📸 Dashboard Preview
+
+![Overview](Screenshots/01_Overview.png)
 
 ---
 
@@ -81,7 +90,7 @@ The dashboard follows a **Star Schema** design for optimal performance and scala
 
 ![Overview](Screenshots/01_Overview.png)
 
-**Key KPIs**
+#### Key KPIs
 
 - Revenue
 - Profit
@@ -95,7 +104,7 @@ The dashboard follows a **Star Schema** design for optimal performance and scala
 
 ![Product Analysis](Screenshots/02_Product_Analysis.png)
 
-**Insights**
+#### Insights
 
 - Top Revenue Products
 - Top Profit Products
@@ -109,7 +118,7 @@ The dashboard follows a **Star Schema** design for optimal performance and scala
 
 ![Period Comparison](Screenshots/03_Period_Comparison_Analysis.png)
 
-**Features**
+#### Features
 
 - Dual Date Range Comparison
 - Revenue Comparison
@@ -123,7 +132,7 @@ The dashboard follows a **Star Schema** design for optimal performance and scala
 
 ![Customer Promotion](Screenshots/04_Customer_Promotion_Analysis.png)
 
-**Insights**
+#### Insights
 
 - Top Customers by Revenue
 - Top Customers by Profit
@@ -136,7 +145,7 @@ The dashboard follows a **Star Schema** design for optimal performance and scala
 
 ![Sales Transactions](Screenshots/05_Sales_Transactions_Details.png)
 
-**Features**
+#### Features
 
 - Detailed Transaction Records
 - Dynamic Filtering
@@ -181,23 +190,37 @@ Strategic recommendations generated from sales, customer, and promotion analysis
 
 ---
 
+## 🎯 Business Impact
+
+This dashboard helps organizations:
+
+- Monitor sales performance effectively
+- Identify top-performing products and customers
+- Evaluate promotional campaign effectiveness
+- Compare business performance across different periods
+- Improve decision-making through actionable insights
+
+---
+
 ## 📈 Project Highlights
 
 ✔ Star Schema Data Model
 
-✔ DAX Measures & KPIs
+✔ Advanced DAX Measures & KPIs
 
 ✔ Dynamic KPI Cards
 
-✔ Period Comparison Analysis
+✔ Interactive Filtering & Slicers
 
-✔ Interactive Dashboard Design
+✔ Period Comparison Analysis
 
 ✔ Drill-Through Reporting
 
 ✔ Business Recommendation Framework
 
 ✔ Data-Driven Insights
+
+✔ Professional Dashboard Design
 
 ---
 
@@ -223,11 +246,25 @@ Sales-Analysis-PowerBI
 
 ## 🚀 How to Use
 
-1. Download the `.pbix` file.
-2. Open it in Microsoft Power BI Desktop.
-3. Explore dashboard pages using navigation buttons.
-4. Use slicers and filters to perform interactive analysis.
-5. Review insights and recommendations for business decision-making.
+1. Download the `Sales Analysis.pbix` file.
+2. Open it using Microsoft Power BI Desktop.
+3. Navigate through the dashboard pages.
+4. Apply filters and slicers for custom analysis.
+5. Explore business insights and recommendations.
+
+---
+
+## 💡 Skills Demonstrated
+
+- Power BI Dashboard Development
+- DAX Calculations & Measures
+- Data Modeling (Star Schema)
+- Power Query Transformations
+- Business Intelligence
+- KPI Design & Reporting
+- Data Visualization
+- Analytical Thinking
+- Business Insights Generation
 
 ---
 
@@ -235,20 +272,4 @@ Sales-Analysis-PowerBI
 
 **Sajjarapu Sai Kiran**
 
-🔗 GitHub: https://github.com/SaiKiran0078
-
-### Skills Demonstrated
-
-- Power BI
-- DAX
-- Data Modeling
-- Business Intelligence
-- Data Visualization
-- Dashboard Development
-- Analytical Thinking
-
----
-
-⭐ If you found this project useful, consider giving it a star.
-
-Built with Power BI, DAX, and Business Intelligence best practices.
+- GitHub: https://github.com/SaiKiran0078
